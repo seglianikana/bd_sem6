@@ -1,0 +1,6 @@
+2021-03-24 21:29:17,086 *** Start of program
+2021-03-24 21:29:17,185 *** Copying data from the first file
+2021-03-24 21:29:17,199 *** Copying data from the second file
+2021-03-24 21:29:17,222 *** Getting max from math_100 column
+2021-03-24 21:29:17,226 *** Result copied to a math_ball_100 csv file
+2021-03-24 21:29:17,226 *** Finished
